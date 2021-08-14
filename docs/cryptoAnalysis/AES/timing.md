@@ -1,0 +1,12 @@
+# Cache-timing attacks
+* [It's all a question of time - AES timing attacks on OpenSSL](https://access.redhat.com/blogs/766093/posts/1976303)
+* [Cache-timing attacks on AES](https://cr.yp.to/antiforgery/cachetiming-20050414.pdf)
+* [Cache-Collision Timing Attacks Against AES](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/10/aes-timing.pdf)
+* [Wait a minute! A fast, Cross-VM attack on AES](https://eprint.iacr.org/2014/435.pdf)
+* [Fine grain Cross-VM Attacks on Xen and VMware are possible!](https://eprint.iacr.org/2014/248.pdf)
+* [Cache Games – Bringing Access-Based Cache Attacks on AES to Practice](https://eprint.iacr.org/2010/594.pdf)
+* [A False Dependency Attack Against Constant-Time Crypto Implementations in SGX](https://arxiv.org/pdf/1711.08002.pdf)
+* [Faster and Timing-Attack Resistant AES-GCM](https://eprint.iacr.org/2009/129.pdf)
+* [Why Constant-Time Crypto?](https://www.bearssl.org/constanttime.html)
+* [Constant Time Encryption as a Countermeasure against Remote Cache Timing Attacks](https://arxiv.org/pdf/1403.7293.pdf)
+* [Using SGX to Conceal Cache Attacks](https://arxiv.org/pdf/1702.08719.pdf)
